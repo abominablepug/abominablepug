@@ -1,0 +1,23 @@
+name: Hackatime Readme Stats
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update README with Hackatime
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.HACKATIME_API_KEY }}
+          API_BASE_URL: https://hackatime.hackclub.com/api/hackatime/v1
+          SHOW_TITLE: true
+          BLOCKS: ░▒▓█
+          TIME_RANGE: all_time
+          LANG_COUNT: 8
