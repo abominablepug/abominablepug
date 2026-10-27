@@ -16,45 +16,25 @@
 
 ---
 
-### 📂 Projects
+### Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/abominablepug/pulsaRTOS"><img src="https://img.shields.io/badge/pulsaRTOS-x86__64_Rust_RTOS-8b5cf6?style=for-the-badge&labelColor=0d1117&logo=rust&logoColor=white" alt="pulsaRTOS" /></a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/abominablepug/magnetohydrodynamic-mayhem"><img src="https://img.shields.io/badge/MHD_Mayhem-GPU_Plasma_Sim-3b82f6?style=for-the-badge&labelColor=0d1117&logo=webgpu&logoColor=white" alt="Magnetohydrodynamic Mayhem" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/abominablepug/boris-cli"><img src="https://img.shields.io/badge/boris--cli-Relativistic_Particle_Pusher-8b5cf6?style=for-the-badge&labelColor=0d1117&logo=rust&logoColor=white" alt="boris-cli" /></a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/abominablepug/turbulent-seas"><img src="https://img.shields.io/badge/Turbulent_Seas-C%2B%2B_%2F_Wasm_FLIP_Fluid-3b82f6?style=for-the-badge&labelColor=0d1117&logo=cplusplus&logoColor=white" alt="Turbulent Seas" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/abominablepug/neo-tracker-api"><img src="https://img.shields.io/badge/neo--tracker--api-Near--Earth_Object_API-8b5cf6?style=for-the-badge&labelColor=0d1117&logo=postgresql&logoColor=white" alt="neo-tracker-api" /></a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/abominablepug/waybar-wakatime-module"><img src="https://img.shields.io/badge/waybar--wakatime-Linux_Statusbar_CLI-3b82f6?style=for-the-badge&labelColor=0d1117&logo=linux&logoColor=white" alt="waybar-wakatime-module" /></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <a href="https://github.com/Phoenix-Phanatics/robot-code-2026"><img src="https://img.shields.io/badge/FRC_11104-Autonomous_Swerve_Code-8b5cf6?style=for-the-badge&labelColor=0d1117&logo=first&logoColor=white" alt="FRC 11104" /></a>
-      </td>
-    </tr>
-  </table>
-</div>
+<p align="center">
+  <a href="https://github.com/abominablepug/pulsaRTOS"><img src="https://img.shields.io/badge/pulsaRTOS-x86__64_Rust_RTOS-8b5cf6?style=for-the-badge&labelColor=0d1117&logo=rust&logoColor=white" alt="pulsaRTOS" /></a>
+  <a href="https://github.com/abominablepug/magnetohydrodynamic-mayhem"><img src="https://img.shields.io/badge/magnetohydrodynamic--mayhem-GPU_Plasma_Sim-3b82f6?style=for-the-badge&labelColor=0d1117&logo=webgpu&logoColor=white" alt="magnetohydrodynamic-mayhem" /></a>
+  <br />
+  <a href="https://github.com/abominablepug/vlasov-poisson-solver"><img src="https://img.shields.io/badge/vlasov--poisson--solver-Kinetic_Plasma_Solver-3b82f6?style=for-the-badge&labelColor=0d1117&logo=julia&logoColor=white" alt="vlasov-poisson-solver" /></a>
+  <a href="https://github.com/abominablepug/magnetic-prison"><img src="https://img.shields.io/badge/magnetic--prison-Magnetic_Confinement_Sim-8b5cf6?style=for-the-badge&labelColor=0d1117&logo=rust&logoColor=white" alt="magnetic-prison" /></a>
+  <br />
+  <a href="https://github.com/abominablepug/boris-cli"><img src="https://img.shields.io/badge/boris--cli-Relativistic_Particle_Pusher-8b5cf6?style=for-the-badge&labelColor=0d1117&logo=rust&logoColor=white" alt="boris-cli" /></a>
+  <a href="https://github.com/abominablepug/turbulent-seas"><img src="https://img.shields.io/badge/turbulent--seas-C%2B%2B_%2F_Wasm_FLIP_Fluid-3b82f6?style=for-the-badge&labelColor=0d1117&logo=cplusplus&logoColor=white" alt="turbulent-seas" /></a>
+  <br />
+  <a href="https://github.com/abominablepug/neo-tracker-api"><img src="https://img.shields.io/badge/neo--tracker--api-Near--Earth_Object_API-3b82f6?style=for-the-badge&labelColor=0d1117&logo=rust&logoColor=white" alt="neo-tracker-api" /></a>
+  <a href="https://github.com/abominablepug/finite-bridge-analysis"><img src="https://img.shields.io/badge/finite--bridge--analysis-C%2B%2B_Structural_FEA-8b5cf6?style=for-the-badge&labelColor=0d1117&logo=cplusplus&logoColor=white" alt="finite-bridge-analysis" /></a>
+</p>
 
 ---
 
-### 📈 Hackatime & Commit Telemetry
+### Hackatime & Commit Telemetry
 
 <div align="center">
   <a href="https://hackatime.hackclub.com"><img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=abominablepug&api_domain=hackatime.hackclub.com&layout=compact&card_width=465&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&border_color=30363d&custom_title=Hackatime+Coding+Breakdown&langs_count=8&range=all_time" alt="Hackatime Stats" /></a>
@@ -62,7 +42,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/abominablepug"><img height="165" src="https://github-readme-stats.vercel.app/api?username=abominablepug&show_icons=true&hide_rank=true&card_width=380&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&icon_color=3b82f6&border_color=30363d" alt="GitHub Stats" /></a>
+  <a href="https://github.com/abominablepug"><img height="165" src="https://github-readme-stats.vercel.app/api?username=abominablepug&show_icons=true&hide_rank=true&hide=stars&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&icon_color=3b82f6&border_color=30363d" alt="GitHub Stats" /></a>
   <a href="https://github.com/abominablepug"><img height="165" src="https://streak-stats.demolab.com?user=abominablepug&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=8B5CF6&fire=3B82F6&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=8B5CF6&sideLabels=3B82F6&dates=8B949E" alt="GitHub Streak" /></a>
 </div>
 
