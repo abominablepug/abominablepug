@@ -34,11 +34,11 @@
 
 ---
 
-### Hackatime & Commit Telemetry
+### Hackatime & Commit Data
 
 <div align="center">
   <a href="https://hackatime.hackclub.com"><img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=abominablepug&api_domain=hackatime.hackclub.com&layout=compact&card_width=465&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&border_color=30363d&custom_title=Hackatime+Coding+Breakdown&langs_count=8&range=all_time" alt="Hackatime Stats" /></a>
-  <a href="https://github.com/abominablepug"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abominablepug&layout=compact&card_width=360&langs_count=8&hide=c&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&border_color=30363d&custom_title=Repo+Languages+(Excl.+Assets)" alt="Top Languages" /></a>
+  <a href="https://github.com/abominablepug"><img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abominablepug&layout=compact&card_width=360&langs_count=8&hide=c&bg_color=0d1117&title_color=3b82f6&text_color=c9d1d9&border_color=30363d&custom_title=Repo+Languages" alt="Top Languages" /></a>
 </div>
 
 <div align="center">
